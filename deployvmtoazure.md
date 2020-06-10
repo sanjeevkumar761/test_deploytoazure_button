@@ -1,1 +1,1 @@
-
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2FAzure%2Fazure-quickstart-templates%2Fblob%2Fmaster%2F101-vm-simple-linux%2Fazuredeploy.json)
